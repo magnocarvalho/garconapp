@@ -4,8 +4,8 @@
   "name": "Garçon de cenoura",
   "short_name": "Garçon de cenoura",
   "version": "org.magneira.gracoapp",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
-  "author": "Apache Cordova Team",
+  "description": "app de garçon, aprendizado alura.",
+  "author": "Magno Carvalho",
   "icons": [],
   "start_url": "index.html"
 }
