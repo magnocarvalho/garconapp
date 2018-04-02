@@ -4,18 +4,18 @@ ADDED from C:\Users\Yankton\Documents\GitHub\garconapp\platforms\android\app\src
 INJECTED from C:\Users\Yankton\Documents\GitHub\garconapp\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
 INJECTED from C:\Users\Yankton\Documents\GitHub\garconapp\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
 INJECTED from C:\Users\Yankton\Documents\GitHub\garconapp\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
-MERGED from [:barcodescanner-release-2.1.5:] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\45a14a12f7d3e9f55e9d68838d92ec22\AndroidManifest.xml:2:1-14:12
-MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\7e499b99582ad895e5b59bcec79a809a\AndroidManifest.xml:17:1-22:12
+MERGED from [:barcodescanner-release-2.1.5:] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\2cef7c7c145f58c902ee708209067c26\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\b88ee2d75eaec8350ebdb476e3d4e490\AndroidManifest.xml:17:1-22:12
 MERGED from [:CordovaLib] C:\Users\Yankton\Documents\GitHub\garconapp\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
-MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\386f7dbe8a0602aaa4d46b5f45837e2a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\18f075190efcbb6e9c8c5a5f5f9540f0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\57fb6c9bcf39f542a544f9313922fd67\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\a85715f44f6c06c54570a23822d1e371\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\ae4fd92930d9081aaa87640b5fd5e5c0\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\05e8bc72164d349b0f58c489c33c700d\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d716a033b890db7d7e7baabac49e562e\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ad4d0c2783d6881c267c2cbe289c565d\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9ef076ce55ba3d0d43d310e4f73f17ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\73022937f5b7050735327c191f4500fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\f7435d9de49d278115abbe6d3e1357d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\7de8fa2f42424e976bf578354729f53d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\f27128d8dc253a1ed0eef8b875e1843d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\24fbdee8814de64a41c69ae10871d5ea\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\39932d4aa90b4908d4c237c07d5c2e2a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\81faa5145c82d8fbd69b331a4458b4af\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\13cae5abf563c4a66c81c8fd611f6465\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a89ce61d2ae7cee69f4c5b0841322f21\AndroidManifest.xml:17:1-22:12
 INJECTED from C:\Users\Yankton\Documents\GitHub\garconapp\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
 INJECTED from C:\Users\Yankton\Documents\GitHub\garconapp\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
 INJECTED from C:\Users\Yankton\Documents\GitHub\garconapp\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
@@ -55,8 +55,8 @@ ADDED from C:\Users\Yankton\Documents\GitHub\garconapp\platforms\android\app\src
 		ADDED from C:\Users\Yankton\Documents\GitHub\garconapp\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
 application
 ADDED from C:\Users\Yankton\Documents\GitHub\garconapp\platforms\android\app\src\main\AndroidManifest.xml:5:5-14:19
-MERGED from [:barcodescanner-release-2.1.5:] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\45a14a12f7d3e9f55e9d68838d92ec22\AndroidManifest.xml:11:5-12:19
-MERGED from [:barcodescanner-release-2.1.5:] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\45a14a12f7d3e9f55e9d68838d92ec22\AndroidManifest.xml:11:5-12:19
+MERGED from [:barcodescanner-release-2.1.5:] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\2cef7c7c145f58c902ee708209067c26\AndroidManifest.xml:11:5-12:19
+MERGED from [:barcodescanner-release-2.1.5:] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\2cef7c7c145f58c902ee708209067c26\AndroidManifest.xml:11:5-12:19
 	android:supportsRtl
 		ADDED from C:\Users\Yankton\Documents\GitHub\garconapp\platforms\android\app\src\main\AndroidManifest.xml:5:114-140
 	android:label
@@ -115,30 +115,30 @@ ADDED from C:\Users\Yankton\Documents\GitHub\garconapp\platforms\android\app\src
 		ADDED from C:\Users\Yankton\Documents\GitHub\garconapp\platforms\android\app\src\main\AndroidManifest.xml:13:41-109
 uses-sdk
 ADDED from C:\Users\Yankton\Documents\GitHub\garconapp\platforms\android\app\src\main\AndroidManifest.xml:15:5-74
-MERGED from [:barcodescanner-release-2.1.5:] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\45a14a12f7d3e9f55e9d68838d92ec22\AndroidManifest.xml:7:5-9:41
-MERGED from [:barcodescanner-release-2.1.5:] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\45a14a12f7d3e9f55e9d68838d92ec22\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\7e499b99582ad895e5b59bcec79a809a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\7e499b99582ad895e5b59bcec79a809a\AndroidManifest.xml:20:5-44
+MERGED from [:barcodescanner-release-2.1.5:] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\2cef7c7c145f58c902ee708209067c26\AndroidManifest.xml:7:5-9:41
+MERGED from [:barcodescanner-release-2.1.5:] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\2cef7c7c145f58c902ee708209067c26\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\b88ee2d75eaec8350ebdb476e3d4e490\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\b88ee2d75eaec8350ebdb476e3d4e490\AndroidManifest.xml:20:5-44
 MERGED from [:CordovaLib] C:\Users\Yankton\Documents\GitHub\garconapp\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
 MERGED from [:CordovaLib] C:\Users\Yankton\Documents\GitHub\garconapp\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
-MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\386f7dbe8a0602aaa4d46b5f45837e2a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\386f7dbe8a0602aaa4d46b5f45837e2a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\18f075190efcbb6e9c8c5a5f5f9540f0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\18f075190efcbb6e9c8c5a5f5f9540f0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\57fb6c9bcf39f542a544f9313922fd67\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\57fb6c9bcf39f542a544f9313922fd67\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\a85715f44f6c06c54570a23822d1e371\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\a85715f44f6c06c54570a23822d1e371\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\ae4fd92930d9081aaa87640b5fd5e5c0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\ae4fd92930d9081aaa87640b5fd5e5c0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\05e8bc72164d349b0f58c489c33c700d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\05e8bc72164d349b0f58c489c33c700d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d716a033b890db7d7e7baabac49e562e\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d716a033b890db7d7e7baabac49e562e\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ad4d0c2783d6881c267c2cbe289c565d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ad4d0c2783d6881c267c2cbe289c565d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9ef076ce55ba3d0d43d310e4f73f17ce\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9ef076ce55ba3d0d43d310e4f73f17ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\73022937f5b7050735327c191f4500fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\73022937f5b7050735327c191f4500fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\f7435d9de49d278115abbe6d3e1357d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\f7435d9de49d278115abbe6d3e1357d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\7de8fa2f42424e976bf578354729f53d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\7de8fa2f42424e976bf578354729f53d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\f27128d8dc253a1ed0eef8b875e1843d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\f27128d8dc253a1ed0eef8b875e1843d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\24fbdee8814de64a41c69ae10871d5ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\24fbdee8814de64a41c69ae10871d5ea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\39932d4aa90b4908d4c237c07d5c2e2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\39932d4aa90b4908d4c237c07d5c2e2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\81faa5145c82d8fbd69b331a4458b4af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\81faa5145c82d8fbd69b331a4458b4af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\13cae5abf563c4a66c81c8fd611f6465\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\13cae5abf563c4a66c81c8fd611f6465\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a89ce61d2ae7cee69f4c5b0841322f21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yankton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a89ce61d2ae7cee69f4c5b0841322f21\AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
 		ADDED from C:\Users\Yankton\Documents\GitHub\garconapp\platforms\android\app\src\main\AndroidManifest.xml:15:42-71
 	android:minSdkVersion
