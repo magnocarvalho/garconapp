@@ -30,15 +30,35 @@ $('.acao-limpar').on('click', function() {
     $('#numero-mesa').val('');
     $('.badge').remove();
 });
+$('.scan-qrcode').on('click', function(){
+    cordova.plugins.barcodeScanner.scan(
+       function (resultado) {
+           if (resultado.text) {
+               Materialize.toast('Mesa ' + resultado.text, 2000);
+               $('#numero-mesa').val(resultado.text);
+           }
+       },
+       function (error) {
+           Materialize.toast('Erro: ' + error, 3000, 'red-text');
+       }
+    );
+});
 
-cordova.plugins.barcodeScanner.scan(
-    function (result) {
-        alert("We got a barcode\n" +
-              "Result: " + result.text + "\n" +
-              "Format: " + result.format + "\n" +
-              "Cancelled: " + result.cancelled);
-    }, 
-    function (error) {
-        alert("Scanning failed: " + error);
-    }
- );
+$('.acao-finalizar').on('click', function() {
+    $.ajax({
+        url: 'http://cozinhapp.sergiolopes.org/novo-pedido',
+        data: {
+            mesa: $('#numero-mesa').val(),
+            pedido: $('#resumo').text()
+        },
+        error: function(erro) {
+           Materialize.toast(erro.responseText, 3000, 'red-text');
+        },
+        success: function(dados) {
+            Materialize.toast(dados, 2000);
+
+            $('#numero-mesa').val('');
+            $('.badge').remove();
+        }
+    });
+ });
