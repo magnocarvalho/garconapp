@@ -12,6 +12,9 @@
         <param name="android-package" value="org.apache.cordova.statusbar.StatusBar" />
         <param name="onload" value="true" />
     </feature>
+    <feature name="BarcodeScanner">
+        <param name="android-package" value="com.phonegap.plugins.barcodescanner.BarcodeScanner" />
+    </feature>
     <name>Garçon de cenoura</name>
     <description>
         app de garçon, aprendizado alura.
@@ -33,4 +36,5 @@
     <preference name="Fullscreen" value="true" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="BackgroundColor" value="0xF2F2F2FF" />
+    <preference name="StatusBarBackgroundColor" value="#E86C13" />
 </widget>

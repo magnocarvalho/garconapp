@@ -15,6 +15,9 @@
     },
     "cordova-plugin-statusbar": {
       "PACKAGE_NAME": "org.magneira.gracoapp"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "PACKAGE_NAME": "org.magneira.gracoapp"
     }
   },
   "dependent_plugins": {}
