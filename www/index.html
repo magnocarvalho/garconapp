@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="icons/material.css">
     <link rel="stylesheet" href="css/materialize.min.css">
     <link rel="stylesheet" href="css/index.css">
+    
 </head>
 <body>
     <div class="topo-fixo z-depth-1">
@@ -31,14 +32,14 @@
         </div>
     </div>
     <div class="section" id="bebidas">
-        <h6 class="container">Cervejas</h6>
+        <h6 class="container brown-text">Cervejas</h6>
         <div class="collection">
             <a class="collection-item waves-effect black-text">cerveja brama</a>
             <a class="collection-item waves-effect black-text">skol</a>
             <a class="collection-item waves-effect black-text">itaipava</a>
             <a class="collection-item waves-effect black-text">chocolate com cohaque </a>            
         </div>
-        <h6 class="container">cafes</h6>
+        <h6 class="container brown-text">cafes</h6>
         <div class="collection">
             <a class="collection-item waves-effect black-text">cerveja brama</a>
             <a class="collection-item waves-effect black-text">cerveja brama</a>
@@ -46,7 +47,7 @@
             <a class="collection-item waves-effect black-text">itaipava</a>
             <a class="collection-item waves-effect black-text">chocolate com cohaque </a>            
         </div>
-        <h6 class="container">sucos</h6>
+        <h6 class="container brown-text">sucos</h6>
         <div class="collection">
             <a class="collection-item waves-effect black-text">cerveja brama</a>
             <a class="collection-item waves-effect black-text">skol</a>
@@ -54,8 +55,26 @@
             <a class="collection-item waves-effect black-text">chocolate com cohaque </a>            
         </div>
     </div>
+    <div class="fixed-action-btn">
+        <a href="#confirmacao" id="confirmar"
+        class="btn-floating btn-large waves-effect waves-light brown modal-trigger">
+            <i class="material-icons">done</i>
+        </a>
+    </div>
+    <div id="confirmacao" class="modal modal-fixed-footer">
+        <div class="modal-content">
+            <h5>Resumo do pedido</h5>
+            <input id="numero-mesa" type="number" class="validate" placeholder="Número da mesa">
+            <blockquote id="resumo"></blockquote>
+        </div>
+        <div class="modal-footer">
+            <button class="btn deep-orange waves-effect waves-light modal-close">Pedir</button>
+            <button class="btn-flat waves-effect waves-red modal-close">Cancelar</button>
+        </div>
+    </div>
 
     <script src="js/jquery.min.js"></script>
     <script src="js/materialize.min.js"></script>
+    <script src="js/app.js"></script>
 </body>
 </html>
