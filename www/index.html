@@ -14,8 +14,12 @@
       <div class="yellow darken-4 white-text valign-wrapper">
         <h5 class="titulo">Só de Cenoura</h5>
         <div>
-            <i class="material-icons waves-effect waves-light waves-circle">more_vert</i>
+            <i class="material-icons waves-effect waves-light waves-circle dropdown-button" data-activates="submenu" data-gutter="5"
+            data-constrainwidth="false">more_vert</i>
         </div>
+        <ul id="submenu" class="dropdown-content">
+            <li><a class="black-text acao-limpar">Limpar</a></li>
+        </ul>
     </div>
 
     <ul class="tabs yellow darken-4">
@@ -68,8 +72,8 @@
             <blockquote id="resumo"></blockquote>
         </div>
         <div class="modal-footer">
-            <button class="btn deep-orange waves-effect waves-light modal-close">Pedir</button>
-            <button class="btn-flat waves-effect waves-red modal-close">Cancelar</button>
+            <button class="btn deep-orange waves-effect waves-light modal-close acao-limpar">Pedir</button>
+            <button class="btn-flat waves-effect waves-red modal-close acao-limpar">Cancelar</button>
         </div>
     </div>
 

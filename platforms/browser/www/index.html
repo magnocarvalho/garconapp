@@ -14,8 +14,12 @@
       <div class="yellow darken-4 white-text valign-wrapper">
         <h5 class="titulo">Só de Cenoura</h5>
         <div>
-            <i class="material-icons waves-effect waves-light waves-circle">more_vert</i>
+            <i class="material-icons waves-effect waves-light waves-circle dropdown-button" data-activates="submenu" data-gutter="5"
+            data-constrainwidth="false">more_vert</i>
         </div>
+        <ul id="submenu" class="dropdown-content">
+            <li><a class="black-text acao-limpar">Limpar</a></li>
+        </ul>
     </div>
 
     <ul class="tabs yellow darken-4">
@@ -56,17 +60,20 @@
         </div>
     </div>
     <div class="fixed-action-btn">
-        <a href="#confirmacao"
-        class="btn-floating btn-large waves-effect
-        waves-light modal-trigger brown">
-        <i class="material-icons">done</i>
+        <a href="#confirmacao" id="confirmar"
+        class="btn-floating btn-large waves-effect waves-light brown modal-trigger">
+            <i class="material-icons">done</i>
+        </a>
     </div>
-    <div class="modal modal-fixed-footer" id="confirmacao">
+    <div id="confirmacao" class="modal modal-fixed-footer">
         <div class="modal-content">
-            conteudo
+            <h5>Resumo do pedido</h5>
+            <input id="numero-mesa" type="number" class="validate" placeholder="Número da mesa">
+            <blockquote id="resumo"></blockquote>
         </div>
         <div class="modal-footer">
-            rodape
+            <button class="btn deep-orange waves-effect waves-light modal-close acao-limpar">Pedir</button>
+            <button class="btn-flat waves-effect waves-red modal-close acao-limpar">Cancelar</button>
         </div>
     </div>
 
